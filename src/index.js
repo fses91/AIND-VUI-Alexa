@@ -76,7 +76,7 @@ var handlers = {
     },
     'GetNewYearFactIntent': function () {
         //TODO your code here
-
+        // ##
     },
     'AMAZON.HelpIntent': function () {
         var speechOutput = this.t("HELP_MESSAGE");
