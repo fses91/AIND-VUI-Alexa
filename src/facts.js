@@ -7,6 +7,10 @@ module.exports = {
         "In 1997, a chess-playing program named Deep Blue, developed by IBM, beat the reigning world chess champion.",
         "A so-called AI Winter occurred in 1974, when funding was cut after Speech Understanding research did not live up to its promise.",
         "A driverless robotic car named Stanley, engineered by Sebastian Thrun's Stanford Racing team, sped through the Mojave desert at 22 miles per hour to win the 2005 Darpa Grand Challenge.",
-        "Replace me and add some more facts!"
+        "In 2017 Putin said: \"Whoever masters AI will run the world\"",
+        "In the 17th century Gottfried Leibnitz speculated that human reason could be reduced to mechanical calculation",
+        "In 1763 Thomas Bayes develops a framework for reasoning about the probability of events. Bayesian inference will become a leading approach in machine learning.",
+        "In 1997 Deep Blue was the first machine which beat a world chess champion.",
+        "In 2011 IBM's Watson computer defeated television game show Jeopardy! champions Rutter and Jennings."
     ]
 }

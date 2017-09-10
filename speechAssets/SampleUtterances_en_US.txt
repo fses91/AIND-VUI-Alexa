@@ -2,3 +2,14 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent tell me something about history
+GetNewFactIntent fact
+GetNewFactIntent tell me something interesting about ai history
+GetNewFactIntent give me a interesting fact
+GetNewFactIntent tell me a interesting fact
+GetNewFactIntent history fact
+GetNewFactIntent tell me something worth to know in ai
+GetNewFactIntent give me a fact of ai history
+GetNewFactIntent ai history
+GetNewFactIntent what do you know about ai history
+GetNewFactIntent what happen in the past in the filed of ai
